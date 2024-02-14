@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: coral;
+}
+.App{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+.card{
+  background: white;
+  padding : 3rem 5rem;
+}
+.card p{
+  padding-top: 1rem;
+  line-height: 150%;
+}
