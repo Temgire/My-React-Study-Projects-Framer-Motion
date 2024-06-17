@@ -1,0 +1,5 @@
+![Screenshot from 2024-06-17 13-32-38](https://github.com/Temgire/My-React-Study-Projects-Framer-Motion/assets/95518302/8780bef2-805c-4c61-81bf-1a5e35d141a9)
+![Screenshot from 2024-02-22 07-21-49](https://github.com/Temgire/My-React-Study-Projects-Framer-Motion/assets/95518302/8c783f89-4a21-4b7a-9e79-da50cdeb18e3)
+![Screenshot from 2024-02-22 07-16-50](https://github.com/Temgire/My-React-Study-Projects-Framer-Motion/assets/95518302/6f4d0108-ee73-4eba-87cb-2149e95f9c1e)
+![Screenshot from 2024-02-22 07-16-00](https://github.com/Temgire/My-React-Study-Projects-Framer-Motion/assets/95518302/5742b654-ce81-46c3-8f9e-303a50b16073)
+![Screenshot from 2024-02-22 07-15-53](https://github.com/Temgire/My-React-Study-Projects-Framer-Motion/assets/95518302/b0696558-a173-4a1e-a677-bf5725dc051d)
